@@ -98,10 +98,10 @@ This dashboard enables the business to:
 ## 🖥️ Dashboard Screenshots
 
 ### 🔹 Overview Dashboard
-![Dashboard Preview](Screenshots/dashboard1.png)
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Car_Sales_Dashboard/blob/main/dashboard1.png)
 
 ### 🔹 Detailed Sales View
-![Dashboard Preview](Screenshots/dashboard2.png)
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Car_Sales_Dashboard/blob/main/dashboard2.png)
 
 
 
