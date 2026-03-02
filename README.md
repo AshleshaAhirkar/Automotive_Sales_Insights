@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard | Power BI
+# 🚗 Automotive Sales Insights | Power BI
 
 ## 📌 Project Overview
 This project presents a **comprehensive Car Sales Dashboard** developed using **Power BI** to analyze, monitor, and evaluate car sales performance across multiple dimensions such as time, region, body style, color, and company.
